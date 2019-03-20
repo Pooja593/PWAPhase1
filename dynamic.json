@@ -1,0 +1,47 @@
+{
+  "basics":{
+  "img":"images/b.jpeg",
+  "name":"pooja",
+  "email":"pooja@gmail.com"
+},
+"career":{
+  "info":"i want to seek position where i can explore my thoughts and skills"
+},
+"Educational":[
+  {
+    "sno":"1",
+    "degree":"B.tech",
+    "Institute":"mits",
+    "per":"90"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "Institute":"srjc",
+    "per":"95"
+  },
+  {
+    "sno":"3",
+    "degree":"ssc",
+    "Institute":"vdnkn",
+    "per":"93"
+  }
+],
+"skills":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"c#"
+  },
+  {
+    "info":"java"
+  },
+  {
+    "info":"python"
+  }
+]
+}
