@@ -62,7 +62,7 @@ body{
 }
 @media only screen and (min-width:481px) and (max-width:720px){
  body{
-   background-color: blue ;
+   background-color: #B936C6 ;
  }
  .parent{
    background-color:pink;
